@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/girdharikrthakur](https://github.com/girdharikrthakur)
 
-- 💬 Ask me about **Java, Spring Boot, Javascript, Raect, Python**
+- 💬 Ask me about **Java, Spring Boot, Javascript, React, Python, Dart,C, C++**
 
 - 📫 How to reach me **girdharikrthakur@gmail.com**
 
